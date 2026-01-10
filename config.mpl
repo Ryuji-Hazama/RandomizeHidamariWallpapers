@@ -1,4 +1,11 @@
 MAPLE
+H *LOG_SETTINGS
+    CMD INFO
+    FLE INFO
+    MAX 3
+    OUT logs
+    # TRACE, DEBUG, INFO, WARN, ERROR, FATAL
+E
 H PATH
     HOME /home/username
 E
